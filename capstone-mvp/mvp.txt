@@ -1,0 +1,74 @@
+MVP Ideas
+
+webpage that shows updates on natural disasters
+
+- users can search locations to see current or past natural disasters
+
+- users can see related news stories
+
+- users can see a list of charities for donations
+
+- uses reliefweb api
+
+- uses news api
+
+future features
+
+- interactive map with all the disasters are shown and you can click to get more information and news
+
+
+
+webpage you can input cocktail ingredients and it tells you drinks you could make
+
+- users can login signup
+
+- users can select from options of different liquors and mixers they have
+
+- it returns a list of cocktails that use the ingredients 
+
+- users can save cocktails ingredients to their profile
+
+- users can save a cocktail's recipe
+
+future features
+
+- reccomend cocktails based on preferences
+
+
+
+trivia game
+
+- have to correctly answer 10 questions in a row to win
+
+- increasing difficulty of questions
+
+- user can sign up and log in
+
+- users can save porogress and come back later
+
+- user can get hints that eliminate 2 of the possible choices
+
+future features
+
+- scoreboard of all users on the number of times they played before winning
+
+
+
+General ecom store 
+
+- user login
+
+- user can add items to a cart 
+
+- can checkout with stripe integration
+
+- can search for items
+
+- well styled homepage
+
+future features
+
+- order tracking
+
+
+
